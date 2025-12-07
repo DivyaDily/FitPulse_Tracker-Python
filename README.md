@@ -37,7 +37,7 @@ How to Run:
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/FitPulse_Tracker-Python.git
+git clone https://github.com/DivyaDily/FitPulse_Tracker-Python.git
 
 
 Navigate to the project folder:
