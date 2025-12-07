@@ -1,9 +1,9 @@
-FitPulse_Tracker-Python
+# FitPulse_Tracker-Python
 
 Description:
 FitPulse Tracker is an interactive Personal Fitness Tracker built with Python and Streamlit. It helps users track their fitness metrics, calculate calories burned, monitor vital signs, and get personalized dietary and workout recommendations. The application uses machine learning models to predict calorie expenditure based on user inputs and historical exercise data.
 
-Features:
+# Features:
 
 User Profile Management: Save and view user profiles including name, age, weight, height, and BMI.
 
@@ -19,7 +19,7 @@ Interactive Dashboard: Built with Streamlit, providing a clean, user-friendly in
 
 Downloadable Data: Export saved user profiles as CSV for offline tracking.
 
-Technologies Used:
+# Technologies Used:
 
 Python
 
@@ -67,7 +67,7 @@ Get personalized advice for diet and exercises.
 
 Maintain an organized database of user fitness profiles.
 
-Future Improvements:
+# Future Improvements:
 
 Add integration with wearable devices (Fitbit, Apple Watch).
 
